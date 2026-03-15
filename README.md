@@ -1,16 +1,31 @@
-## Hi there 👋
+```bash
+$ whoami
+> Parth Bhardwaj — student engineer & open source contributor
+> he/him · India
 
-<!--
-**bhardwajparth51/bhardwajparth51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ cat status.txt
+> [active] openlibary - Migrating Open Library endpoints to FastAPI
+> [active] appwrite - contributing to appwrite/sdk-generator
 
-Here are some ideas to get you started:
+$ git log --oneline --author="bhardwajparth51"
+> appwrite/sdk-generator  fix: CLI error messaging for 401 auth errors   (PR #1378, merged)
+> internetarchive/openlibrary  feat: migrate /cdn endpoint to FastAPI    (PR #11969, merged)
+> internetarchive/openlibrary  fix: ebooks toggle visibility             (PR #11914, merged)
+> internetarchive/openlibrary  fix: homepage carousel Preview button     (PR #11903, merged)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ ls ~/projects
+> CampusAI/  — AI campus complaint management · Next.js · FastAPI · PostgreSQL · scikit-learn · Appwrite
+
+$ cat stack.txt
+> Languages     Python · TypeScript · Javascript
+> DSA           Java
+> Frameworks    FastAPI · Next.js · Django · React
+> Database      PostgreSQL · SQLAlchemy · Alembic
+> Tools         Docker · Git · Appwrite
+
+$ cat connect.txt
+> github.com/bhardwajparth51
+> linkedin.com/in/bhardwajparth51
+> x.com/bhardwajparth51
+> open to: internships · open source collaboration
+```
