@@ -4,7 +4,7 @@ $ whoami
 > he/him · India
 
 $ cat status.txt
-> [active] openlibary - Migrating Open Library endpoints to FastAPI
+> [active] openlibrary - Migrating Open Library endpoints to FastAPI
 > [active] appwrite - contributing to appwrite/sdk-generator
 
 $ git log --oneline --author="bhardwajparth51"
