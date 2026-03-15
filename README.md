@@ -29,3 +29,4 @@ $ cat connect.txt
 > x.com/bhardwajparth51
 > open to: internships · open source collaboration
 ```
+![LeetCode Stats](https://leetcard.jacoblin.cool/parthbhardwaj51)
